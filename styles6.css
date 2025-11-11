@@ -214,7 +214,7 @@ img.pic3{
 width: 100%;
 max-width: 430px;
 margin-left: auto;
-margin-right: -550px;
+margin-right: 0px;
 margin-top: -280px;
 display: block;
 }
