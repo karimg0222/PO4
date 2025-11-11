@@ -92,6 +92,10 @@ ul li a:hover {
   background-color: #111111;
 }
 
+b {
+ text-decoration: underline;
+ color: rgb(255, 255, 255);
+}
 
 img.pic{
 width: 100%;
@@ -449,5 +453,7 @@ footer {
   color: white;
 }
 
-
+.ytvid red{
+  color: red;
+}
 

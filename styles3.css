@@ -25,7 +25,10 @@
     
     
 }
-
+b {
+ text-decoration: underline;
+ color: rgb(255, 255, 255);
+}
 
 .inner_header{
     width: 1800px;
