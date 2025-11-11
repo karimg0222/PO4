@@ -56,7 +56,6 @@
 }
 
 
-
 .navigation li{
     height: 100%;
     display: table;
@@ -65,6 +64,15 @@
     
     
 }
+
+.navigation li a:visited {
+    color: rgb(69, 180, 255);
+}
+
+.navigation li a:active {
+    color: rgb(255, 69, 69);
+}
+
 
 .navigation li:last-child{
     padding-right: 0;
@@ -83,6 +91,7 @@
 ul li a:hover {
   background-color: #111111;
 }
+
 
 img.pic{
 width: 100%;
@@ -103,6 +112,10 @@ box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
     margin-left: 100px;
     margin-top: 250px;
 
+}
+
+strong {
+  font-weight: bold;
 }
 
 .intro p{

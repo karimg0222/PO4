@@ -9,6 +9,10 @@
     padding-top: 80px;
 } 
 
+.navigation li a:visited {
+    color: rgb(69, 180, 255);
+}
+
 
 
 .header{
